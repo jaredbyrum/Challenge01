@@ -43,9 +43,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
 /*
 changed to more related class, moved photo to html to add 'alt' element text
 */
@@ -57,17 +54,12 @@ changed to more related class, moved photo to html to add 'alt' element text
     background-position: center;
 }
 
-#search-engine-optimization img {
+.float-left{
     float: left;
     margin-right: 25px;
 }
 
-#social-media-marketing img {
-    float: left;
-    margin-right: 25px;
-}
-
-#online-reputation-management img {
+.float-right {
     float: right;
     margin-left: 25px;
 }
